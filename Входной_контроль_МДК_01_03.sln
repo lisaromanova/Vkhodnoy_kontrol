@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Входной_контроль_МДК_01_03", "Входной_контроль_МДК_01_03\Входной_контроль_МДК_01_03.csproj", "{688852C9-C885-4137-8964-D60452CBD7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688852C9-C885-4137-8964-D60452CBD7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688852C9-C885-4137-8964-D60452CBD7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688852C9-C885-4137-8964-D60452CBD7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688852C9-C885-4137-8964-D60452CBD7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCD18A2-9AFB-4013-B1AF-3D20EBF4C2D8}
+	EndGlobalSection
+EndGlobal
